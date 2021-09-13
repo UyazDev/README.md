@@ -12,6 +12,7 @@
 - Discord Bio : [ClickHere](https://discord.bio/Uyaz)
 - MCPE Profile : [ClickHere](https://xboxgamertag.com/search/Uyaz)
 - Youtube : [ClickHere](https://www.youtube.com/c/uyazz)
+- Twitter : [ClickHere](https://twitter.com/Uyaz_)
 
 
 ### Statistics:
