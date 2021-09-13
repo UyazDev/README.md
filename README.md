@@ -13,3 +13,7 @@
 - MCPE Profile : [ClickHere](https://xboxgamertag.com/search/Uyaz)
 - Youtube : [ClickHere](https://www.youtube.com/c/uyazz)
 
+
+### Statistics:
+
+<img align="left" alt="UyazDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoUyazDev&show_icons=true&hide_border=true&theme=prussian" />
