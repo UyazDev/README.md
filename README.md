@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [Plutonium](https://discord.gg/rp2ka3RNq7) as a Manager
 - 😴 Too lazy to learn anything, will probably motivate myself one day or another
-- 👦 Minor
+- 🌍 Translator (English/French)
 
 
 ### Social Medias :
